@@ -9,7 +9,7 @@ This is an another brach of the original [wso2/siddhi](https://github.com/wso2/s
 
 # Fix log
 2016.01.25 <br>
-Reason: NullPointerException when null value in partition key <br>
+Reason: NullPointerException when null value comes in partition key <br>
 File: <br>
 modules/siddhi-core/src/main/java/org/wso2/siddhi/core/partition/executor/ValuePartitionExecutor.java <br>
 Before:
