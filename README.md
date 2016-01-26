@@ -2,8 +2,12 @@ Siddhi Complex Event Processing Engine
 ======================================
 This is an another brach of the original [wso2/siddhi](https://github.com/wso2/siddhi)
 
-Fix log
------------------
+# To install this Siddhi library into your local maven repository
+1. ```git clone http://gitlab.obzen.com:8085/lab/siddhi.git```
+2. ```cd siddhi```
+3. ```mvn install -DskipTests```
+
+# Fix log
 2016.01.25 <br>
 Reason: NullPointerException when null value in partition key <br>
 File: <br>
