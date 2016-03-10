@@ -519,4 +519,16 @@
 
     </pluginRepositories>
 
+    <distributionManagement>
+        <repository>
+            <id>obzen</id>
+            <name>Releases</name>
+            <url>http://192.168.10.81:8081/content/repositories/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>obzen</id>
+            <name>Snapshot</name>
+            <url>http://192.168.10.81:8081/content/repositories/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
