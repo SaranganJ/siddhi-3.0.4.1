@@ -2,11 +2,6 @@ Siddhi Complex Event Processing Engine
 ======================================
 This is an another brach of the original [wso2/siddhi](https://github.com/wso2/siddhi) v3.0.4
 
-# To install this Siddhi library into your local maven repository
-1. ```git clone http://gitlab.obzen.com:8085/lab/siddhi.git```
-2. ```cd siddhi```
-3. ```mvn install -DskipTests```
-
 # Siddhi CEP Query Language Guide
 Please refer to [SiddhiQL Guide 3.0](https://docs.wso2.com/display/CEP400/SiddhiQL+Guide+3.0)
 
